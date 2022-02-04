@@ -1,4 +1,4 @@
-Javascript in web apps
+# Javascript in web apps
 
 A web app is usually made of 3 things. A frontend, backend and a database.
 
